@@ -1,8 +1,8 @@
 :: Setup environment variable
-set HOSTNAME=ylei-5520
-set port=8089
-set AUTHKEY=C:\Users\ylei\Documents\Coverity\auth_key\ak-ylei-5520-8089
-set STREAM=Function-model
+set HOSTNAME=hostname
+set port=8080
+set AUTHKEY=<auth-key path>
+set STREAM=stream
 
 :: Clean output
 make clean
